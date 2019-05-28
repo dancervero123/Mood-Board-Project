@@ -1,0 +1,14 @@
+body{
+    text-align:center;
+    background-color: pink;
+}
+
+button{
+    background-color: #E6E6FA;
+    color:purple;
+}
+
+.moodImage{
+    width:200px;
+    height:100px;
+}
